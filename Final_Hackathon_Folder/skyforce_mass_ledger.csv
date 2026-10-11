@@ -1,0 +1,17 @@
+Component,Quantity,Mass_kg,IncludedInSubtotal,Status
+"Airframe (frame, plates, arms, fasteners)",As designed,4.5,1,First-pass estimate
+"Six motors, U8 Lite KV100",6,1.43,1,Ledger value 1.43 kg; bare spec 6 x 0.238 kg = 1.428 kg
+"Six ESCs, Alpha 60A",6,0.78,1,First-pass ledger placeholder; bare spec 6 x 0.073 kg = 0.438 kg
+"Six propellers, G28x9.2 CF",6,0.6,1,First-pass ledger placeholder; bare spec 6 x 0.059 kg = 0.354 kg
+"Landing gear",As designed,0.8,1,Estimated
+"Battery, 12S 8000 mAh",1,1.97,1,Estimated; exact product not selected
+"Power board, wiring, connectors",As installed,0.8,1,Estimated
+"Flight controller, GPS, IMU",1 set,0.4,1,First-pass estimate; exact Standard Set not confirmed
+"Companion computer",1,0.3,1,First-pass estimate; actual carrier assembly not finalized
+"Camera and gimbal",1,0.5,1,First-pass estimate; exact camera/gimbal mass unknown
+"Datalink radio and antenna",1,0.5,1,First-pass estimate; bare modem reference 0.014 kg
+"Net launcher frame and mechanism",As designed,0.8,1,Estimated fabrication placeholder
+"Net and tether",As designed,0.3,1,Estimated; included in nominal mass
+"CO2 cartridge",As applicable,0.2,1,Estimated
+"Parachute and release",As designed,0.4,1,Estimated; itemized breakdown pending
+"Miscellaneous",As installed,0.5,1,Estimated
