@@ -1,7 +1,0 @@
-Component,ReferenceMass_kg,LedgerMass_kg,DifferenceLedgerMinusReference_kg,ReferenceScope
-Motor set (6 motors),1.428,1.43,0.002,"Six motor bodies as supplied; rounds to 1.43 kg ledger entry"
-Propeller set (6 propellers),0.354,0.6,0.246,"Bare propeller reference; ledger value may include undocumented allowance, not verified"
-ESC set (6 ESCs),0.438,0.78,0.342,"Bare ESC reference; ledger value may include undocumented allowance, not verified"
-Cube Orange+ bare flight-controller module,0.053,0.4,0.347,"Bare module only; excludes carrier board and GPS/compass; not like-for-like"
-Jetson Orin Nano full dev-kit assembly,0.174,0.3,0.126,"Full dev-kit bound supplied; selected installed assembly not confirmed"
-RFD900x-class bare modem,0.014,0.5,0.486,"Bare modem only; ledger's 0.50 kg entry includes nominal antenna but is an unresolved outlier"
