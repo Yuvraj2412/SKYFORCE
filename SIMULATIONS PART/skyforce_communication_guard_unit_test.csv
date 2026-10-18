@@ -1,0 +1,5 @@
+CaseName,CurrentPositionDistance_m,PredictedNextPositionDistance_m,EffectiveLinkLimit_m,ExpectedCurrentPositionGuard,ActualCurrentPositionGuard,ExpectedPredictedNextStepGuard,ActualPredictedNextStepGuard,TestPassed
+Below limit,2999,2999.5,3000,0,0,0,0,1
+Exactly at limit,3000,3000,3000,0,0,0,0,1
+Predicted next step crosses limit,2999,3001,3000,0,0,1,1,1
+Current position already outside limit,3001,3001,3000,1,1,1,1,1
