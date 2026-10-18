@@ -1,3 +1,0 @@
-DetectionStage,TargetMass_kg,TargetMassLimit_kg,LimitExceeded_kg,Decision,ParachuteRequestFlag_SimOnly,TowAllowed,DeploymentDynamicsModelled,RecoveryValidated,Rationale
-"Mass known during tracking, before launch",6,5,1,No mass-only abort; use trajectory/time launch gate,0,0,0,0,"Mass alone does not reject launch; if the trajectory/time gate authorizes launch and a geometric candidate occurs, request parachute recovery and do not tow."
-"After geometric capture-candidate event",6,5,1,Continue to candidate; immediate simulated parachute request,1,0,0,0,"Immediate simulated parachute-request flag after candidate; no towing; actual deployment, load rating, opening shock and safe landing remain unvalidated."
